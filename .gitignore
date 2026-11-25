@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+prepared_data.joblib
+trained_model.joblib
+classifier.joblib
+data/
